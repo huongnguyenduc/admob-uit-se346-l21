@@ -1,5 +1,11 @@
 # awesome_drawing_quiz
 
+Exercise in SE346.L21 class, UITHCM.
+
+Student: 19521592 ft 19521597 & 19520117,
+
+Lecturer: Mr.Tuan Anh
+
 Sample app for &#x27;Adding AdMob Ads to a Flutter app&#x27; Codelab.
 
 ## Getting Started
